@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme4.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme4.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme1_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme1_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme1_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme1_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme1_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme1_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_meme1.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/meme1.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme3_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme3_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme3.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme3.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme3_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme3_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme1_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme1_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_meme1_round.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/meme1_round.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_meme4_round.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/meme4_round.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme4.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme4.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme4_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme4_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme4.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme4.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme1.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme1.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_meme1.png.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/meme1.png"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme2_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme2_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme2_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme2_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_meme4_background.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/meme4_background.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme3_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme3_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme3_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme3_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme4_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme4_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme1.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme1.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme2.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme2.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_meme4.png.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/meme4.png"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme1_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme1_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/layout_grid_item.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/layout/grid_item.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_meme4.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/meme4.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme4_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme4_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme2_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme2_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme2_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme2_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_meme3_round.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/meme3_round.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme3_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme3_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme2.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme2.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_meme3_background.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/meme3_background.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme2.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme2.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme1.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme1.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme2_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme2_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme1.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme1.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme3.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme3.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme3_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme3_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_meme1_background.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/meme1_background.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme3.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme3.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme3_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme3_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme2_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme2_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme1_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme1_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme2_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme2_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme3.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme3.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme4_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme4_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_meme2_background.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/meme2_background.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme4.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme4.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme4_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme4_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme4.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme4.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_meme3.png.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/meme3.png"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_meme3.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/meme3.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_meme2_round.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/meme2_round.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme1_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme1_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme4_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme4_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme1_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme1_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme3.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme3.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme1_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme1_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme1.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme1.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme4_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme4_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme2_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme2_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme3_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme3_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme3_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme3_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme4_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme4_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme1_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme1_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxxhdpi_meme2_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxxhdpi/meme2_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme4_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme4_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-hdpi_meme2_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-hdpi/meme2_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme2.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme2.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-mdpi_meme4_round.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-mdpi/meme4_round.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/drawable_meme2.png.flat",
+        "source": "com.example.picturelibrary.app-main-37:/drawable/meme2.png"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xhdpi_meme3_foreground.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xhdpi/meme3_foreground.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_meme2.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/meme2.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/mipmap-anydpi-v26_meme2.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/mipmap-anydpi-v26/meme2.xml"
+    },
+    {
+        "merged": "com.example.picturelibrary.app-debug-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.picturelibrary.app-main-37:/xml/backup_rules.xml"
+    }
+]

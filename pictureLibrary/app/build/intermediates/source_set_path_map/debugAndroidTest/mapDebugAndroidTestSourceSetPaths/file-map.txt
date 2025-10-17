@@ -1,0 +1,5 @@
+com.example.picturelibrary.test.app-core-1.7.0-0 C:\Users\Chaos\.gradle\caches\8.13\transforms\06db6133caa4b95a0bd5e3f81cd2c561\transformed\core-1.7.0\res
+com.example.picturelibrary.test.app-androidTest-1 E:\Mobile App\Thuc_Hanh\pictureLibrary\app\build\generated\res\resValues\androidTest\debug
+com.example.picturelibrary.test.app-mergeDebugAndroidTestResources-2 E:\Mobile App\Thuc_Hanh\pictureLibrary\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.picturelibrary.test.app-mergeDebugAndroidTestResources-3 E:\Mobile App\Thuc_Hanh\pictureLibrary\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.picturelibrary.test.app-debugAndroidTest-4 E:\Mobile App\Thuc_Hanh\pictureLibrary\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
